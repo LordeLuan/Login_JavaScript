@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.loading{
+    display: block;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+    padding-left: 40%;
+    padding-top: 40%;
+    z-index: 1900;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
